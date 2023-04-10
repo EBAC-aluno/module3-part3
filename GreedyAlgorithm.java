@@ -12,7 +12,7 @@ public class GreedyAlgorithm {
 
    /* Disclaimer: 
    /
-   / This solution won't stop you from be
+   / This solution won't stop you from being
    / funny by requesting impossible inputs like 
    / showPickedCoins(25, new int[]{10, 2});
    / or
